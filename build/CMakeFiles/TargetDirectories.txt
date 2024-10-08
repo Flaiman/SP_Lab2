@@ -1,0 +1,4 @@
+C:/DOCS/SEM5/SP_Lab2/build/CMakeFiles/calculator.dir
+C:/DOCS/SEM5/SP_Lab2/build/CMakeFiles/calculator_exec.dir
+C:/DOCS/SEM5/SP_Lab2/build/CMakeFiles/edit_cache.dir
+C:/DOCS/SEM5/SP_Lab2/build/CMakeFiles/rebuild_cache.dir

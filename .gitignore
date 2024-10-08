@@ -1,0 +1,20 @@
+# Ігнорувати файли конфігурації Visual Studio
+.vs/
+*.suo
+*.user
+*.vscode/
+*.vcxproj.user
+*.ipch/
+*.obj
+*.pch
+*.exe
+*.dll
+*.pdb
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
